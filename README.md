@@ -1,2 +1,2 @@
 # code-library
-The Basic Fundamental Understanding of Programming Languages. 
+The OpenSource Code Library for Understanding Basic Fundamental of Modern Programming Languages.
