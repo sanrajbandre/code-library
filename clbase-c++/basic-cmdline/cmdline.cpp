@@ -64,7 +64,7 @@ while(( sw = getopt(ac, ag, "f:")) != -1 )
         }
         case '?':
         {
-            std::cout<< "Unknown Argument Provided..!" << std::endl;
+            std::cout<< "The Unknown Argument Provided..!" << std::endl;
             break;
         }
     }
